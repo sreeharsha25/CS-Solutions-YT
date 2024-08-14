@@ -1,1 +1,26 @@
-2nd file
+before rebase feature commit
+=========================
+780ae9b (HEAD -> feature) b2 featre comimit
+9532773 feature b1 commit
+3129bd8 third file commit
+6736f1d second file commit msg
+d123942 first commit
+
+
+after rebase commit
+==============================================
+269c8d0 (HEAD -> feature) b2 featre comimit
+f153969 feature b1 commit
+1af837c (example) fifth commit
+572bd55 c4 commit
+3129bd8 third file commit
+6736f1d second file commit msg
+d123942 first commit
+
+example branch (main)
+========================================
+1af837c (HEAD -> example) fifth commit
+572bd55 c4 commit
+3129bd8 third file commit
+6736f1d second file commit msg
+d123942 first commit
